@@ -1,0 +1,23 @@
+{
+  "name": "d-poo-300-rush03-smarty_bordeaux4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechDigitalPromo2026/D-POO-300-rush03-Smarty_Bordeaux4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechDigitalPromo2026/D-POO-300-rush03-Smarty_Bordeaux4/issues"
+  },
+  "homepage": "https://github.com/EpitechDigitalPromo2026/D-POO-300-rush03-Smarty_Bordeaux4#readme",
+  "dependencies": {
+    "native-base": "^3.4.17"
+  }
+}
+
